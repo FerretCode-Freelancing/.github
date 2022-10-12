@@ -6,6 +6,7 @@ Hey everyone! This is the organization for my freelancing business called Ferret
 ## Projects
 - [frrt.space](https://github.com/FerretCode-Freelancing/website) FerretCode Freelancing Website
 - [fc-hosting](https://gitbub.com/FerretCode-Freelancing/fc-hosting) The hosting platform for FerretCode Freelancing
+- [fc-session-cache](https://github.com/FerretCode-Freelancing/fc-session-cache) An in-memory session storage cache with a simple API
 
 ## How you can Help
 The best way you can help is reporting issues with any services in their respective repository.
