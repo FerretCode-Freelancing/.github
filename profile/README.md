@@ -5,7 +5,7 @@ Hey everyone! This is the organization for my freelancing business called Ferret
 
 ## Projects
 - [frrt.space](https://github.com/FerretCode-Freelancing/website) FerretCode Freelancing Website
-- [fc-hosting](https://gitbub.com/FerretCode-Freelancing/fc-hosting) The hosting platform for FerretCode Freelancing
+- [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting) The hosting platform for FerretCode Freelancing
 - [fc-session-cache](https://github.com/FerretCode-Freelancing/fc-session-cache) An in-memory session storage cache with a simple API
 - [fc-provision](https://github.com/FerretCode-Freelancing/fc-provision) A container provisioning engine
 
