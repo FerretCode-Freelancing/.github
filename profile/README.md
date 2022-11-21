@@ -1,7 +1,7 @@
 # FerretCode Freelancing
  
 ## Intro
-Hey everyone! This is the organization for my freelancing business called FerretCode Freelancing. All of my open source projects for the business will be hosted here.
+Hey everyone! This is the organization for my freelancing business called FerretCode Freelancing. All open source projects for the business will be hosted here.
 
 ## Projects
 - [frrt.space](https://github.com/FerretCode-Freelancing/website) FerretCode Freelancing Website
