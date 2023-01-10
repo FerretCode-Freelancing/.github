@@ -12,8 +12,8 @@ This is the organization for my freelancing business called FerretCode Freelanci
 
 ## Roadmap
 - Current goal: finish [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting)
-- Next, we plan on waiting for a while to see how the project does, perform any necessary changes or fixes, and introduce some new features like integrated databases into user environments.
-- After that, we're looking at implementing a CI/CD platform as well for [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting)
+- Next, we plan on monitoring the project and introduce fixes for any issues, as well as introduce some new features like databases in user environments.
+- After that, we're looking at implementing a CI/CD platform for [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting)
 
 ## How you can Help
 The best way you can help is reporting issues with any services in their respective repository.
