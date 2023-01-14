@@ -9,6 +9,7 @@ This is the organization for my freelancing business called FerretCode Freelanci
 - [fc-session-cache](https://github.com/FerretCode-Freelancing/fc-session-cache) An in-memory session storage cache with a simple API
 - [fc-provision](https://github.com/FerretCode-Freelancing/fc-provision) A container provisioning engine
 - [connect-fc-session-cache](https://github.com/FerretCode-Freelancing/connect-fc-session-cache) An express-session compatible interface for fc-session-cache
+- [fc-bus](https://github.com/ferretcode-freelancing/fc-bus) A golang library for simplifying message bus communication between microservices
 
 ## Roadmap
 - Current goal: finish [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting)
