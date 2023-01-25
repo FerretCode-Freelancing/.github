@@ -16,5 +16,11 @@ This is the organization for my freelancing business called FerretCode Freelanci
 - Next, we plan on monitoring the project and introduce fixes for any issues, as well as introduce some new features like databases in user environments.
 - After that, we're looking at implementing a CI/CD platform for [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting)
 
+## The Team
+Our team currently has three members.
+- [FerretCode](https://github.com/ferretcode) Platform Engineer, DevOps, Frontend
+- [Furd-Burgin](https://github.com/Furd-Burgin) Platform Engineer (currently working on fc-status)
+- [bbqmaster69](https://github.com/bbqmaster69) Platform Engineer (currently working on fc-status)
+
 ## How you can Help
 The best way you can help is reporting issues with any services in their respective repository.
