@@ -19,7 +19,7 @@ This is the organization for FerretCode Freelancing. All open source projects fo
 
 ## The Team
 - [FerretCode](https://github.com/ferretcode) Fullstack, DevOps & platform engineer
-- You! Join the team by visiting the recruitment channel in [the Discord] (https://discord.com/invite/m92EwKgVa5) (ask for the Developer role to gain access).
+- You! Join the team by visiting the recruitment channel in [the Discord](https://discord.com/invite/m92EwKgVa5) (ask for the Developer role to gain access).
 
 ## How you can Help
 Report issues to team members as they come up, either in their respective repositories or to a team member directly.
