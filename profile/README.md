@@ -5,6 +5,7 @@ This is the organization for FerretCode Freelancing. All open source projects fo
 
 ## Projects
 - [frrt.space](https://github.com/FerretCode-Freelancing/website) FerretCode Freelancing Website
+- [fc-cloud](https://github.com/FerretCode-Freelancing/fc-cloud) A more robust cloud platform than fc-hosting
 - [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting) The hosting platform for FerretCode Freelancing
 - [fc-session-cache](https://github.com/FerretCode-Freelancing/fc-session-cache) An in-memory session storage cache with a simple API
 - [fc-provision](https://github.com/FerretCode-Freelancing/fc-provision) A container provisioning engine
@@ -14,7 +15,7 @@ This is the organization for FerretCode Freelancing. All open source projects fo
 
 ## Roadmap
 - Introduce new project management dashboard for clients and freelancers
-- Finish fc-hosting
+- Finish fc-cloud
 - Provision hawthorne or fc-hosting infrastructure for in-house hosting
 
 ## The Team
