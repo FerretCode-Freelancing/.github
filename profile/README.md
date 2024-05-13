@@ -3,7 +3,7 @@
 ## Intro
 This is the organization for FerretCode Freelancing. All open source projects for the business will reside here.
 
-## Projects
+## OSS Projects
 - [frrt.space](https://github.com/FerretCode-Freelancing/website) FerretCode Freelancing Website
 - [fc-cloud](https://github.com/FerretCode-Freelancing/fc-cloud) A more robust cloud platform than fc-hosting
 - [fc-hosting](https://github.com/FerretCode-Freelancing/fc-hosting) The (deprecated) hosting platform for FerretCode Freelancing
